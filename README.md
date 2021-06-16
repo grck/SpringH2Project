@@ -1,6 +1,8 @@
 # SpringH2Project
 Project using H2 database and springboot
 
+See API using Swagger at
+http://localhost:2022/swagger-ui.html
 
 Using the Spring Boot framework, create a Java project that implements a REST controller with the following requirements:
 
